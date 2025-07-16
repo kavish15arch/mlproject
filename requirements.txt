@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+scikit-learn
+catboost
+dill
+xgboost
+flask
+#-e .  # It will directly run setup.py
